@@ -1,0 +1,12 @@
+africastalking==1.2.4
+asgiref==3.5.0
+certifi==2021.10.8
+charset-normalizer==2.0.12
+contextlib2==21.6.0
+Django==4.0.3
+idna==3.3
+requests==2.27.1
+schema==0.7.5
+sqlparse==0.4.2
+tzdata==2022.1
+urllib3==1.26.9
